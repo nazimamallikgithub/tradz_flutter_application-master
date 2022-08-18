@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tradz</string>
+    <string name="facebook_app_id">1412061705888258</string>
+    <string name="fb_login_protocol_scheme">fb1412061705888258</string>
+    <string name="facebook_client_token">81ae7d065006c7b60ce3333f383f457f</string>
+
+</resources>

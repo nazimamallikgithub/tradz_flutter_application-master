@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1029566703307",
+    "project_id": "tradz-60255",
+    "storage_bucket": "tradz-60255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029566703307:android:7f19c98c8dd4787c40dd4e",
+        "android_client_info": {
+          "package_name": "com.bcit.tradz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029566703307-08n75e1omkbgto5m3hv7eucu2fsf85do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bcit.tradz",
+            "certificate_hash": "955bec30635be214cf1f74dd7f0473e628994f01"
+          }
+        },
+        {
+          "client_id": "1029566703307-1v60kjhn3a0ii7b0lfomi1q0pjbkq5u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2Hfw2caLKS12iiYZV3FgCb0vdq6eE_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029566703307-1v60kjhn3a0ii7b0lfomi1q0pjbkq5u1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029566703307-maf926qsp8i5ua6nn4odtbp08vjafpga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bcit.tradz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
